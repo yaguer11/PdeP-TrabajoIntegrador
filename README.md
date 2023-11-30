@@ -11,3 +11,5 @@ Materia: Paradigmas de Programación.
 Profesor/res: Walter Molina, Diego Puertas.
 
 Alumno: Germán Adrián Muñoz.
+
+Fecha de entraga: 30/11/2023
